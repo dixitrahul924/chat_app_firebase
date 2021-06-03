@@ -1,1 +1,1 @@
-Chatting Application -- Whatsapp Clone
+Chatting Application
